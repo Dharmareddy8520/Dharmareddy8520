@@ -33,6 +33,10 @@ Hello! I'm Dharma Reddy Pandem, currently pursuing my Master's in Computer Scien
 
 ** Base paper** [link](ijsrem.com/download/digitalized-certificate-generation-system/)
 
+## Github Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharmareddy8520&show_icons=true&count_private=true&hide=contribs)
+
 ## Connect with Me
 
 I love connecting with fellow developers and professionals. You can find me on various platforms:
