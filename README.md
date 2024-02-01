@@ -15,7 +15,7 @@ Hello! I'm Dharma Reddy Pandem, currently pursuing my Master's in Computer Scien
 
 ## Projects
 
-### : Real Time Number Plate Detection - WEB
+### Real Time Number Plate Detection - WEB
 
 **Description:** The goal of this project is to develop a system for recognizing vehicle number plates using existing surveillance cameras. The system will capture images of vehicles and use image segmentation to extract the number plate region and store and display data in website
 
