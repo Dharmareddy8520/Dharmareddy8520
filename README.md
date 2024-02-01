@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-[LinkedIn](https://www.linkedin.com/in/dharmareddypandem/) | [GitHub](https://github.com/Dharmareddy8520) | [Portfolio](https://newprofile-nine.vercel.app/)
+[![LinkedIn](https://www.linkedin.com/in/dharmareddypandem/) | [GitHub](https://github.com/Dharmareddy8520) | [Portfolio](https://newprofile-nine.vercel.app/)
 
 ## About Me
 
