@@ -12,6 +12,7 @@ Hello! I'm Dharma Reddy Pandem, currently pursuing my Master's in Computer Scien
 - **Technologies:** HTML, CSS, JavaScript, Bootstrap, React.Js, jQuery, RESTful APIs, Node.js
 - **Database Management Systems:** SQL, MySQL, MongoDB
 - **Developer Tools:** Linux, Git, VS Code, Eclipse, Pycharm, Android Studio, OBS
+- **Machine Learning:**: Supervised Learning, Unsupervised Learning, Model Evaluation
 
 ## Projects
 
